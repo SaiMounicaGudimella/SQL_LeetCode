@@ -1,2 +1,2 @@
 # SQL_LeetCode
-LeetCode SQL questions practise
+LeetCode SQL questions practice
